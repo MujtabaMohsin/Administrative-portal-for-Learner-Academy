@@ -62,6 +62,8 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 •	Now run program on a server.
 
+•	To login you must enter admin for both username and password.
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/64940728/120771774-47dd9600-c528-11eb-86c8-ee8a1b133a23.png)
